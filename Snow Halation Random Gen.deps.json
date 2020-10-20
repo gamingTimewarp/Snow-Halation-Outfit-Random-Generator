@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Snow Halation Random Gen/1.0.0": {
+        "runtime": {
+          "Snow Halation Random Gen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snow Halation Random Gen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
